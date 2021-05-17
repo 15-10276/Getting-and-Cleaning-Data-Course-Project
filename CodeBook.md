@@ -1,4 +1,4 @@
-# CodeBook - Tidy Data  
+# CodeBook - Dictionary Data  
 
 This is a part of a data set that recompiled the results of *“experiments \[that\] have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. 
 Each person performed six activities (WALKING,
