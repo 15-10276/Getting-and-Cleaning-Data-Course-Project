@@ -88,4 +88,8 @@ Now, I'm going to explain the variables in there.
   This is a num vector which contains, the values of each features, normalized and bounded within [-1,1]
   
   
+  
+  
+  
+  
 1. Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
