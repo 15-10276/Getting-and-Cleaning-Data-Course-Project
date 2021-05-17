@@ -2,7 +2,7 @@
 
 This file will allow me to explain how I collect, extract and transform the given data to present a cleaned, tidy data set for you; as a part of the Final Project for the Getting and Cleaning Data Course by John Hopkins University at Coursera.
 
-[Note:]{.ul} I'm not a native English speaker and as I've been how to program and I also learning how to speak your language. I'm very sorry for any misspelling or any bad use of any term. Please, help me to improve and comment any suggestion you have.
+NOTE: I'm not a native English speaker and as I've been how to program and I also learning how to speak your language. I'm very sorry for any misspelling or any bad use of any term. Please, help me to improve and comment any suggestion you have.
 
 ## Loading the necessary libraries
 
